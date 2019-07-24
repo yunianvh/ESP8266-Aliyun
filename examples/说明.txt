@@ -1,0 +1,6 @@
+1、把整个文件夹复制到arduino安装目录下的libraries文件夹下
+2、这个目录下直接放你的demo
+3、具体说明见我博客（玉念聿辉）
+
+https://github.com/Life1412378121
+https://blog.csdn.net/qq_35350654
