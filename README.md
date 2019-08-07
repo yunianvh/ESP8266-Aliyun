@@ -1,4 +1,4 @@
-# ESP8266-Aliyun-ESP8266+Arduino对接阿里云实现远程控制LED、一键配网和自动计算MQTT连接密码
+# ESP8266-Aliyun-ESP8266+Arduino对接阿里云实现远程控制LED、一键配网和自动计算MQTT连接密码|玉念聿辉|吴明辉|奥捷迅科技
 具体说明看下面文章：<br/>
 阿里云Iot：https://dev.iot.aliyun.com/profile/502dal206acfbbd9b034d2d1d51b4a422e749656 <br/>
 CSDN：https://blog.csdn.net/qq_35350654/article/details/96980688
